@@ -1,7 +1,7 @@
 # Hi, my name is Vladislav 👋
 
 ## 🚀 About Me
-I'm 22 y.o. android developer from Krasnodar!
+I'm 23 y.o. android developer from Krasnodar!
 
 ## 🔗 Links
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l_d_off)
