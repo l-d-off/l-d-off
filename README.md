@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 I'm 23 y.o. android developer from Krasnodar! \
-In work, I value clean code, great colleagues, and well-established processes. I'd be happy to get acquainted!
+In work, I value clean code, great colleagues, and well-established processes. \
+I'd be happy to get acquainted!
 
 ## 🔗 Links
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l_d_off)
