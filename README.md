@@ -6,18 +6,19 @@ In work, I value clean code, great colleagues, and well-established processes. \
 I'd be happy to get acquainted!
 
 ## 🔗 Links
-[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/l_d_off)
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lsd_arf)
 
 ## 🛠 Skills
 - Android
-- Kotlin, Java
+- Java, Kotlin
 - Git, Gitlab, GitHub
-- Linux
+- CI/CD, Jira, Confluence
 - Clean Architecture
+- MVVM, MVI
+- REST, OkHttp3, Retrofit, Ktor
+- Room, Datastore, Firebase
 - Coroutines, Flow
-- Koin, Hilt, Dagger2
-- MVVM, MVI, MVP
-- Jetpack Compose, Compose Navigation
-- Okhttp3, Retrofit, REST, Room
-- Jira, Confluence
-- Coil, ExoPlayer
+- Dagger2, Hilt, Koin
+- Jetpack Compose
+- Media3 ExoPlayer, Coil
+- Yandex Ads, Yandex Metrica
